@@ -1,7 +1,10 @@
+# fly.toml app configuration file generated for fraccional-monitoring on 2024-06-16T16:39:31-04:00
+#
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'supabase-grafana-metrics'
+app = 'fraccional-monitoring'
+primary_region = 'scl'
 
 [build]
 
